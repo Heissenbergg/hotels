@@ -4,4 +4,5 @@ https://matveyan.ru/Themes/mycity/01.Default/html/index.html
 
 http://www.rutmap.ba/
 
-
+//google map style
+https://snazzymaps.com/style/6857/light-grey-and-blue
