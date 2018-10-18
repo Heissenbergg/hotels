@@ -6,3 +6,7 @@ http://www.rutmap.ba/
 
 //google map style
 https://snazzymaps.com/style/6857/light-grey-and-blue
+
+
+// admin panel design - link
+https://colorlib.com/polygon/adminator/index.html

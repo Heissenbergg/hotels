@@ -1,1 +1,1 @@
-<?php echo "wee";
+@extends ('layouts/map');

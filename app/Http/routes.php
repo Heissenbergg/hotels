@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('/way_home', function () {
     return view('home');
+});
+
+
+/** First route for homepage */
+
+Route::get('/', function(){
+    return view('homepage');
 });
